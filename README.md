@@ -1,2 +1,1 @@
-# Machine-Learning-Fieldwork---G3
-GitHub Repository for Machine Learning Fieldwork for Group 3
+Jupyter notebook and accompanying materials for analyzing production defects in steel coils. Includes data preprocessing, model selection, hyperparameter tuning, and evaluation for optimizing production efficiency and quality
